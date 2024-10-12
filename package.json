@@ -1,0 +1,26 @@
+{
+  "name": "invitationappbackend",
+  "version": "1.0.0",
+  "description": "Invitation cards selecting website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PushpakProjectsHub/invitation_cards_backend.git"
+  },
+  "author": "Pushpak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PushpakProjectsHub/invitation_cards_backend/issues"
+  },
+  "homepage": "https://github.com/PushpakProjectsHub/invitation_cards_backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
